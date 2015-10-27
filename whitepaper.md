@@ -11,7 +11,7 @@ _Reading in the shade of the Merkle Tree_
 
 ## Introduction
 
-In this text we outline a decentralized platform for publishing and distribution of digital text. The purpose of the system is to enable long-term persistence of sharply defined, immutable units of information. Through a cryptographic link between the identifier and the identified (a digital fingerprint) the system is made tamper-proof and resistant to censorship. We see this proposal as one small contribution to the internet renaissance. 
+In this text we outline a decentralized platform for publishing and distribution of digital text. The purpose of the system is to enable long-term persistence of sharply defined, immutable units of information. Through a cryptographic link between the identifier and the identified (a digital fingerprint), the system is made tamper-proof and resistant to censorship. We see this proposal as one small contribution to a nascent internet renaissance. 
 
 A smart contract, currently implemented on the [Ethereum] protocol and blockchain, acts a decentralized catalogue ( _babel_ in the local terminology of _txtblock_) allowing publication and retrieval of units of texts (called _blocks_).
 
@@ -21,9 +21,9 @@ As all the specifications and code is made public, a _reader-writer_ can interac
 
 ## Background
 
-What does the verb “to publish” mean in a society where every thought, step and moment is digitized and stored? 
+What does the verb “to publish” mean in a society where every thought, step, and moment is digitized and stored? 
 
-According to the dictionary, “publishing” is either the business of producing books and magazines or – secondarily and more broadly – the act of making something public and drawing attention to it. The first definition is archaic and we leave it behind in the age of paper, but the second seems worth considering: What does "public" mean? Again consulting the dictionary we see that it is the opposite of "private". In the past these two spheres where clearly defined and separate. Today the line is blurred. The action of printing, binding and distributing a book was an unmistakable step from the private to the public sphere. In contrast many current publishing tools work in a grey zone in-between, actively hiding where data end up and how it is exploited.
+According to the dictionary, “publishing” is either the business of producing books and magazines or – secondarily and more broadly – the act of making something public and drawing attention to it. The first definition is archaic and we leave it behind in the age of paper, but the second seems worth considering: What does "public" mean? Again consulting the dictionary we see that it is the opposite of "private". In the past these two spheres were clearly defined and separate. Today the line is blurred. The action of printing, binding and distributing a book was an unmistakable step from the private to the public sphere. In contrast, many current publishing tools work in a grey zone in-between, actively hiding where data ends up and how it is exploited.
 
 After the revelations of the last years it has become increasingly clear to many that the categories _private_ and _public_ are in need of re-definition to give the individual the choice of where on this private-public spectrum she is communicating. In addition we think there it is time to re-consider the lifespan of information: to give us, the users, the choice between a forms of communication that burn-on-read to  last-forever. 
 
